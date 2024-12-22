@@ -220,7 +220,7 @@ DEPENDENCIES
   mysql2 (>= 0.4.4)
   pg
   pry-rails
-  puma (~> 4.1)
+  puma (~> 4.3.10)
   rails (~> 6.0.3, >= 6.0.3.4)
   sass-rails (>= 6)
   selenium-webdriver
